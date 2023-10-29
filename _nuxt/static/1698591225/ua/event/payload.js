@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/ua/event", (function(a){return {data:[{meta:{title:"sdsd",desc:a,img:a}}],fetch:{},mutations:void 0}}("")));
