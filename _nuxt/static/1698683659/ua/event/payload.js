@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ua/event", {data:[{ser:"fred"}],fetch:{},mutations:void 0});
