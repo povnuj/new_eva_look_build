@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ua/event", {data:[{meta:{}}],fetch:{},mutations:void 0});
